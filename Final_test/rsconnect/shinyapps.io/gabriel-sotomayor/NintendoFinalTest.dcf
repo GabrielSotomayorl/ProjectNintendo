@@ -1,0 +1,14 @@
+name: NintendoFinalTest
+title: NintendoFinalTest
+username:
+account: gabriel-sotomayor
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6718122
+bundleId: 6149586
+url: https://gabriel-sotomayor.shinyapps.io/NintendoFinalTest/
+when: 1659237411.65448
+lastSyncTime: 1659237411.65448
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: nintendobase.xlsx
